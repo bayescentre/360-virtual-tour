@@ -190,7 +190,7 @@ var APP_DATA = {
     },
     {
       "id": "5-room-g03",
-      "name": "Room G.03",
+      "name": "G.03 Conference Room",
       "levels": [
         {
           "tileSize": 256,
@@ -295,7 +295,7 @@ var APP_DATA = {
     },
     {
       "id": "8-corner-meeting-room",
-      "name": "Corner Meeting Room",
+      "name": "Meeting Room",
       "levels": [
         {
           "tileSize": 256,
@@ -330,7 +330,7 @@ var APP_DATA = {
     },
     {
       "id": "9-occ-reception",
-      "name": "OCC Reception",
+      "name": "Sample Office Space 1",
       "levels": [
         {
           "tileSize": 256,
@@ -365,7 +365,7 @@ var APP_DATA = {
     },
     {
       "id": "10-enterprise-lab-space",
-      "name": "Enterprise Lab Space",
+      "name": "Space Enterprise Lab",
       "levels": [
         {
           "tileSize": 256,
@@ -400,7 +400,7 @@ var APP_DATA = {
     },
     {
       "id": "11-nesta",
-      "name": "Nesta",
+      "name": " Sample Office Space 2",
       "levels": [
         {
           "tileSize": 256,
@@ -470,7 +470,7 @@ var APP_DATA = {
     },
     {
       "id": "13-neurolabs",
-      "name": "Neurolabs",
+      "name": "Sample Office Space 3",
       "levels": [
         {
           "tileSize": 256,
@@ -505,7 +505,7 @@ var APP_DATA = {
     },
     {
       "id": "14-huawei-comfort-area",
-      "name": "Huawei Comfort Area",
+      "name": "Open Innovation Space",
       "levels": [
         {
           "tileSize": 256,
